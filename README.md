@@ -5,4 +5,4 @@ some funny little code
 1.random_lottery.c
 随机生成一组双色球号码
 运行结果截图：
- ![image](https://github.com/lbbit/FunnyCodes/pic/lottery.png)
+ ![Alt text](https://github.com/lbbit/FunnyCodes/raw/master/pic/lottery.png)
